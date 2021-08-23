@@ -1,0 +1,38 @@
+{
+  "input": ".",
+  "output": ".retype",
+  "base": "tech",
+  "branding":
+  {
+    "title": "S.KYUHWN",
+    "logo": "/static/retype-logo.svg",
+    "logoDark": "/static/retype-logo-dark.svg",
+    "label": ""
+  },
+  "links": [
+    {
+      "text": "Home",
+      "link": "/README.md"
+    },
+    {
+      "text": "GitHub",
+      "link": "https://github.com/underthelights/"
+    },
+    {
+      "text": "Resume",
+      "link": "https://drive.google.com/file/d/1lcEg4fXJvTQlCKW5mWai_ej8NZGg21yT/view"
+    },
+    {
+      "text": "Linkedin",
+      "link": "https://www.linkedin.com/in/kyuhwan-shim/"      
+    },
+    {
+      "text": "GitBlog",
+      "link": "https://underthelights.github.io"      
+    }
+  ],
+  "footer":
+  {
+    "copyright": "&copy; Copyright 2020 - {{ year }} KyuHwan Shim, All rights reserved."
+  }
+}

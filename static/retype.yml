@@ -1,0 +1,42 @@
+input: ./
+output: .retype
+url: retype.com
+
+branding:
+  logo: /static/retype-logo.svg
+  logoDark: /static/retype-logo-dark.svg
+  label: v1.8.2
+
+meta:
+  title: " | SHIM KYU HWAN "
+
+edit:
+  repo: github.com/underthelights
+
+links:
+  - text: TechBlog Home
+    link: /README.md
+
+  - text: GitHub
+    link: https://github.com/underthelights
+    target: blank
+
+  - text: LinkedIn
+    link: https://www.linkedin.com/in/kyuhwan-shim/
+    target: blank
+
+  - text: CV
+    link: https://drive.google.com/file/d/1lcEg4fXJvTQlCKW5mWai_ej8NZGg21yT/view
+    target: blank
+
+footer:
+  copyright: KHSHIM © Copyright {{ year }}. [Object.NET Inc.](https://object.net/) All rights reserved.
+  links:
+    - text: About
+      link: about.md
+
+integrations:
+  crisp:
+    id: 9ec0e13c-1299-4c3f-a5e9-ff39363c6960
+  googleAnalytics:
+    id: G-HLTYMRVPG4
